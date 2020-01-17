@@ -1,1 +1,9 @@
-# ha-phuong
+PROJET DE L'INFORMATIQUE EN LICENCE 2 EN BINOME
+
+NOM des étudiantes
+
+TRAN Ha Phuong u21718794
+
+vs
+
+NAVATHEESWARAN Nira u21603445
